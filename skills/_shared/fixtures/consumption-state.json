@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "consumed": [
+    {
+      "id": "local-example-001",
+      "path": "/home/example/.agent/handoffs/example-20260101-100000-local-example-001.md",
+      "consumed_at": "2026-01-01T11:00:00+0000"
+    }
+  ]
+}
